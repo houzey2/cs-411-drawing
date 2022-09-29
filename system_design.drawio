@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T15:17:34.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="20.3.7" etag="t4yBm8-k_kJ7QeNVe0Ud" type="github"><diagram id="PXCcjUMb7tUucPaS4QIz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-29T15:49:55.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="sIyUGnjGbeR8mqY4-1Pp" version="20.3.7" type="github">
+  <diagram id="PXCcjUMb7tUucPaS4QIz" name="Page-1">
+    <mxGraphModel dx="1153" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-2" value="Combat System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="145" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-6" value="Travel System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="335" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-7" value="Meet enemies and start combat&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-9" value="Generating System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="335" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-10" value="Random Generate when Travelling" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="330" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-11" value="Enemies are randomly generated" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="240" width="75" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="380" y="20" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-13" value="Collect System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="147.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-15" value="Collectable&amp;nbsp; items are randomly generated" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="252.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cFTrVpyWIn3HdovlY6KM-16" value="Beat enemies to get award" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
